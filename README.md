@@ -46,6 +46,7 @@
 
 ![Ekran Resmi 2023-03-23 02 11 37](https://user-images.githubusercontent.com/80462839/227059435-d9f77b04-41b1-4830-8480-891ff3bb3653.png)
 
+![Ekran Resmi 2023-03-23 02 11 28](https://user-images.githubusercontent.com/80462839/227059407-e8d88b00-140d-490d-af33-9dc774e312af.png)
 
 ![Uploading Ekran Resmi 2023-03-23 02.11.37 (2).png…]()
 
