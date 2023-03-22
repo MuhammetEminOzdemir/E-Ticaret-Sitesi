@@ -30,10 +30,6 @@
 ![Ekran Resmi 2023-03-23 02 11 26](https://user-images.githubusercontent.com/80462839/227059384-6f70e205-c5eb-45d9-907e-77ba4d0589b7.png)
 
 
-
-![Ekran Resmi 2023-03-23 02 11 28 (2)](https://user-images.githubusercontent.com/80462839/227059413-9d63498e-1685-467d-8d16-ec3637b3b145.png)
-
-
 ![Ekran Resmi 2023-03-23 02 11 32](https://user-images.githubusercontent.com/80462839/227059418-d9c1fd06-59ee-4e0b-b148-9675ceee2fd3.png)
 
 
