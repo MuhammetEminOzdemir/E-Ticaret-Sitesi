@@ -3,11 +3,9 @@ Html5,Css,Javascript kullanlarak hazırlanan örnek e-ticaret sitesi<br>
 
 ![Ekran Resmi 2023-03-23 02 10 11](https://user-images.githubusercontent.com/80462839/227059096-48f94c65-1604-49a6-89cf-3587a85cf356.png)
 
-<img width="1440" alt="Ekran Resmi 2023-03-23 02 10 11 (2)" src="https://user-images.githubusercontent.com/80462839/227059187-3af2208a-73fa-4f9d-b728-0224cc73570e.png">
 
 ![Ekran Resmi 2023-03-23 02 10 19](https://user-images.githubusercontent.com/80462839/227059205-e16a5dd9-ff0f-4248-8cc7-5d34c3e50b2e.png)
 
-<img width="1440" alt="Ekran Resmi 2023-03-23 02 10 19 (2)" src="https://user-images.githubusercontent.com/80462839/227059211-75751c7c-2e97-49ae-8c3d-d4c904f75c19.png">
 
 ![Ekran Resmi 2023-03-23 02 10 21](https://user-images.githubusercontent.com/80462839/227059223-2f77029b-5b9b-4987-8be9-447ebb1e60e7.png)
 
@@ -23,15 +21,12 @@ Html5,Css,Javascript kullanlarak hazırlanan örnek e-ticaret sitesi<br>
 
 ![Ekran Resmi 2023-03-23 02 10 55](https://user-images.githubusercontent.com/80462839/227059331-a3676fe8-8316-4c05-a9af-9779f46b9d93.png)
 
-<img width="1440" alt="Ekran Resmi 2023-03-23 02 10 55 (2)" src="https://user-images.githubusercontent.com/80462839/227059346-5dfaa5aa-c5bf-4001-a428-b0e744b9f0a8.png">
 
 ![Ekran Resmi 2023-03-23 02 10 58](https://user-images.githubusercontent.com/80462839/227059357-154ea33f-8d4c-49c8-a61c-bd06fe66ad8e.png)
 
-<img width="1440" alt="Ekran Resmi 2023-03-23 02 10 58 (2)" src="https://user-images.githubusercontent.com/80462839/227059362-8870a354-a16c-47bb-82f8-10375483f33c.png">
 
 ![Ekran Resmi 2023-03-23 02 11 11](https://user-images.githubusercontent.com/80462839/227059365-791ae7bc-d8e1-41e1-98fc-81085826cc93.png)
 
-<img width="1440" alt="Ekran Resmi 2023-03-23 02 11 17 (2)" src="https://user-images.githubusercontent.com/80462839/227059380-097fc412-7594-4643-91f6-c3abfd1293ea.png">
 
 ![Ekran Resmi 2023-03-23 02 11 26](https://user-images.githubusercontent.com/80462839/227059384-6f70e205-c5eb-45d9-907e-77ba4d0589b7.png)
 
