@@ -1,5 +1,7 @@
 # E-Ticaret-Sitesi
-<b>Html5,Css,Javascript kullanlarak hazırlanan örnek e-ticaret sitesi</b><br>
+<b style="color:red;">Html5,Css,Javascript kullanılarak hazırlanan örnek e-ticaret sitesi</b><br><br>
+
+<p>Ayrıntılı olarak bütün dosyaları zip klasörü içerisinde bulabilirsiniz.</p>
 
 ![Ekran Resmi 2023-03-23 02 10 11](https://user-images.githubusercontent.com/80462839/227059096-48f94c65-1604-49a6-89cf-3587a85cf356.png)
 
