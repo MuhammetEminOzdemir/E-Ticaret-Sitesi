@@ -5,11 +5,16 @@
 
 ![Ekran Resmi 2023-03-23 02 10 11](https://user-images.githubusercontent.com/80462839/227059096-48f94c65-1604-49a6-89cf-3587a85cf356.png)
 
+<img width="1440" alt="Ekran Resmi 2023-03-23 13 04 21" src="https://user-images.githubusercontent.com/80462839/227169875-b869ebcc-bea2-4aa7-892f-94ce5f347935.png">
 
 ![Ekran Resmi 2023-03-23 02 10 19](https://user-images.githubusercontent.com/80462839/227059205-e16a5dd9-ff0f-4248-8cc7-5d34c3e50b2e.png)
 
 
 ![Ekran Resmi 2023-03-23 02 10 21](https://user-images.githubusercontent.com/80462839/227059223-2f77029b-5b9b-4987-8be9-447ebb1e60e7.png)
+
+
+<img width="1440" alt="Ekran Resmi 2023-03-23 13 04 27" src="https://user-images.githubusercontent.com/80462839/227169901-3828f8da-8e3c-4ff4-8401-4e09d6817ffa.png">
+
 
 
 ![Ekran Resmi 2023-03-23 02 10 46](https://user-images.githubusercontent.com/80462839/227059259-44f58457-3cac-4cc2-8535-67a75b8e2e7b.png)
