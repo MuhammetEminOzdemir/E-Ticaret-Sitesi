@@ -1,5 +1,5 @@
 # E-Ticaret-Sitesi<br>
-madmeoticaret.netlify.app <br><br>
+[madmeoticaret.netlify.app](https://madmeoticaret.netlify.app/index.html) <br><br>
 <b style="color:red;">Html5,Css,Javascript kullanılarak hazırlanan örnek e-ticaret sitesi</b><br><br>
 
 <p>Ayrıntılı olarak bütün dosyaları zip klasörü içerisinde bulabilirsiniz.</p>
